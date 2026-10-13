@@ -1,0 +1,4 @@
+Recursos de imagen
+
+- cupcake.jpg: fotografía de Joseph Gonzalez, “Carrot Cake Cupcake”; Wikimedia Commons, licencia CC0 1.0. https://commons.wikimedia.org/wiki/File:Carrot_Cake_Cupcake_(Unsplash).jpg
+- location.svg, tel.svg, nube.svg, berry.svg y leaf.svg: gráficos SVG creados para este proyecto.
